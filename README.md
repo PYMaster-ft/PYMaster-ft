@@ -7,7 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/cham2003?label=Follow%20Me&style=social)](https://github.com/cham2003)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/cham2003?label=Follow%20Me&style=social)](https://github.com/PYMaster-ft)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Chamindu-blue)](https://www.linkedin.com/in/chamindu-pushpika-954a741b8/)
