@@ -25,64 +25,108 @@ https://simpleicons.org/
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-💻 **Languages and Tools:** 🛠️<br>
+<details>
+  <summary><b>Languages I Know 💻</b></summary><br/>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+| Language   | Degree   |
+| ---        | ---      |
+| Javascript | SSS      |
+| Python     | SSS (AI) |
+| HTML       | A        |
+| Typescript | B+       |
+| CSS        | B        |
+| SCSS       | B        |
+| Lua        | B        |
+| Golang     | B        |
 
+##
+#### Degree Table 
 
-🧐 **Knowledge of:**<br>
+| Degree | Point |
+| ---    | ---   |
+| SSS    | +95   |
+| SS     | +90   |
+| S      | +85   |
+| A+     | +80   |
+| A      | +70   |
+| B+     | +60   |
+| B      | +50   |
+| C      | +40   |
+| D      | +30   |
+| F      | <30   |
+</details>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+<details>
+  <summary><b>Languages ​​I'm Learning 🙇🏻</b></summary><br/>
 
+| Language   | Status   |
+| ---        | ---      |
+| Emacs Lisps| ✅       |
+| Java       | ✅       |
+| Make       | ✅       |
+| Assembly   | ✅       |
+| Rust       | ✅       |
+| LaTeX      | ✅       |
+| MediaWiki  | ✅       |
+</details>
 
-🌍 **Deployment platforms:**<br>
+<details>
+  <summary><b>Contributed Repositories 📚</b></summary><br/>
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+| Repository     | Link     |
+| ---            | ---      |
+| CoffeeHouse-JavaScript-API-Wrapper | https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper       |
+| node-fluent-ffmpeg | https://github.com/fluent-ffmpeg/node-fluent-ffmpeg |
+| Hacktoberfest_2021 (Lua) | https://github.com/wafarifki/Hacktoberfest_2021 |
+| google-this | https://github.com/LuanRT/google-this |
 
+</details>
 
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+##
 
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
+<a href="https://instagram.com/kyrie.baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
+<a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Thiccy" height="50" width="60" /></a>
 
-📚 **Working on:** <br>
+<p align="left"
 
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+<a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="Thiccy YouTube" height="46" width="70" /></a>
 
-
-🤓 **Interested:** <br>
-
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
-
-
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=PYMaster-ft" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
+
+### Pull Up My [Blog!](https://t.me/thiccyblog)
+<p align="left">
+<a href="https://t.me/thiccyblog" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
+
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
+
+![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PYMaster-ft=nightowl" alt="PYMaster-ft" /></p>
+</details>
+
+##
+
+![Metrics](https://metrics.lecoq.io/PYMaster-ft?template=classic&commits.authoring=Phaticusthiccy&isocalendar=1&achievements=1&notable=1&pagespeed=1&people=1&lines=1&activity=1&code=1&stars=1&isocalendar.duration=full-year&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&lines.skipped=whatsasena-npm%2C%20Emacs-Train%2C%20phaticusthiccy%2C%20TextMaker-Unlimited%2C%20Image-to-Text%2C%20simple-array-generator%2C%20Carbon-API%2C%20WhatsAsenaDuplicated%2C%20Mechatronics-Sciences%2C%20Payday2-LGBTLights%2C%20Eva%2C%20RGANI&activity.limit=2&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=12&notable.from=organization&notable.repositories=false&code.lines=12&code.load=100&code.visibility=public&pagespeed.url=https%3A%2F%2Fphaticusthiccy.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Europe%2FIstanbul)
+
+##
+
+<details>
+    <summary><b>☄️ About Me </b></summary><br/>
+Hi, This is Thiccy
+
+I am an Programmer. My real thing to do crating artificial brains, neural tools.
+
+I am 17 yeas old. From Sri Lanka
+
+I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
+If you have any question for me ı put my contact information above.
+
+See ya 💘
+
+</details>
