@@ -86,9 +86,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
-<a href="https://instagram.com/kyrie.baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
-<a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Thiccy" height="50" width="60" /></a>
+<a href="https://twitter.com/chamindux" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
+<a href="danial.anonops@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Thiccy" height="50" width="60" /></a>
 
 <p align="left"
 
@@ -98,21 +98,17 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ### Pull Up My [Blog!](https://t.me/thiccyblog)
 <p align="left">
-<a href="https://t.me/thiccyblog" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
+<a href="https://t.me/TrojenHex" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PYMaster-ft&show_icons=true&layout=compact&theme=nightowl" alt="PYMaster-ft" /></p>
 
-![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PYMaster-ft=nightowl" alt="PYMaster-ft" /></p>
 </details>
 
 ##
 
-![Metrics](https://metrics.lecoq.io/PYMaster-ft?template=classic&commits.authoring=PYMaster-ft&isocalendar=1&achievements=1&notable=1&pagespeed=1&people=1&lines=1&activity=1&code=1&stars=1&isocalendar.duration=full-year&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&lines.skipped=whatsasena-npm%2C%20Emacs-Train%2C%20PYMaster-ft%2C%20TextMaker-Unlimited%2C%20Image-to-Text%2C%20simple-array-generator%2C%20Carbon-API%2C%20WhatsAsenaDuplicated%2C%20Mechatronics-Sciences%2C%20Payday2-LGBTLights%2C%20Eva%2C%20RGANI&activity.limit=2&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=12&notable.from=organization&notable.repositories=false&code.lines=12&code.load=100&code.visibility=public&pagespeed.url=https%3A%2F%2Fphaticusthiccy.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/PYMaster-ft?template=classic&commits.authoring=PYMaster-ft&isocalendar=1&achievements=1&notable=1&pagespeed=1&people=1&lines=1&activity=1&code=1&stars=1&isocalendar.duration=full-year&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&lines.skipped=Akina-npm%2C%20Emacs-Train%2C%20PYMaster-ft%2C%20TextMaker-Unlimited%2C%20Image-to-Text%2C%20simple-array-generator%2C%20Carbon-API%2C%20Akina%2C%20Mechatronics-Sciences%2C%20Payday2-LGBTLights%2C%20Eva%2C%20RGANI&activity.limit=2&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=12&notable.from=organization&notable.repositories=false&code.lines=12&code.load=100&code.visibility=public&pagespeed.url=https%3A%2F%2akina.co&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Europe%2FIstanbul)
 
 ##
 
