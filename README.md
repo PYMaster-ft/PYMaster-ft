@@ -118,7 +118,7 @@ Hi, This is Thiccy
 
 I am an Programmer. My real thing to do crating artificial brains, neural tools.
 
-I am 17 yeas old. From Sri Lanka
+I am 19 yeas old. From Sri Lanka
 
 I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
 If you have any question for me ı put my contact information above.
