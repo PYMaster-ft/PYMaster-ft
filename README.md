@@ -92,11 +92,11 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <p align="left"
 
-<a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="Thiccy YouTube" height="46" width="70" /></a>
+<a href="https://www.youtube.com/channel/UC-IEBaaEv7zb-XqOsdcF4Pg" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="PYMaster-ft YouTube" height="46" width="70" /></a>
 
 </p>
 
-### Pull Up My [Blog!](https://t.me/thiccyblog)
+### Pull Up My [Blog!](https://t.me/TrojenHex)
 <p align="left">
 <a href="https://t.me/TrojenHex" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
 
