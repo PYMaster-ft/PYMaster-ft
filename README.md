@@ -114,7 +114,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <details>
     <summary><b>☄️ About Me </b></summary><br/>
-Hi, This is Thiccy
+Hi, This is Chamindu
 
 I am an Programmer. My real thing to do crating artificial brains, neural tools.
 
