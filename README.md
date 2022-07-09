@@ -40,21 +40,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 | Golang     | B        |
 
 ##
-#### Degree Table 
-
-| Degree | Point |
-| ---    | ---   |
-| SSS    | +95   |
-| SS     | +90   |
-| S      | +85   |
-| A+     | +80   |
-| A      | +70   |
-| B+     | +60   |
-| B      | +50   |
-| C      | +40   |
-| D      | +30   |
-| F      | <30   |
-</details>
 
 <details>
   <summary><b>Languages ​​I'm Learning 🙇🏻</b></summary><br/>
