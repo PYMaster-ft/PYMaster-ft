@@ -11,8 +11,8 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Chamindu-blue)](https://www.linkedin.com/in/chamindu-pushpika-954a741b8/)
-[![Hackthebox](https://img.shields.io/badge/Hack%20the%20box-cham2003-green)](https://app.hackthebox.eu/profile/overview)
-[![HackerRank](https://img.shields.io/badge/Hacker%20rank-cham2003-green)](https://www.hackerrank.com/sasipclass)
+[![Hackthebox](https://img.shields.io/badge/Hack%20the%20box-PYMaster-green)](https://app.hackthebox.eu/profile/overview)
+[![HackerRank](https://img.shields.io/badge/Hacker%20rank-chamindux-green)](https://www.hackerrank.com/chamindux)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Chamindu pushpika</strong></samp></h2>
@@ -84,7 +84,7 @@ Hi, This is Chamindu
 
 I am an Programmer. My real thing to do crating artificial brains, neural tools.
 
-I am 19 yeas old. From Sri Lanka
+I am 20 yeas old. From Sri Lanka
 
 I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
 If you have any question for me ı put my contact information above.
