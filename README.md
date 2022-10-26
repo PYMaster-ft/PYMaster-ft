@@ -7,53 +7,34 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/cham2003?label=Follow%20Me&style=social)](https://github.com/PYMaster-ft)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/PYMaster-ft?label=Follow%20Me&style=social)](https://github.com/PYMaster-ft)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Chamindu-blue)](https://www.linkedin.com/in/chamindu-pushpika-954a741b8/)
-[![Mail](https://img.shields.io/badge/Hotmail-chamindu_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](#)
-<br>
 [![Hackthebox](https://img.shields.io/badge/Hack%20the%20box-cham2003-green)](https://app.hackthebox.eu/profile/overview)
 [![HackerRank](https://img.shields.io/badge/Hacker%20rank-cham2003-green)](https://www.hackerrank.com/sasipclass)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Chamindu pushpika</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+<p align='center'>CTF Plyer | Security Researcher | Web developer</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. Currently I am studying as a student in Cybersecurity field. I am currently doing web development on Fiverr as a freelancer. Meanwhile, I write content related to information security in my free time. Also I play on HackTheBox and TryHackMe CTF platforms.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Programmer specialized in **Web development** using multiple **Tools, Frameworks and libraries** both in frontend. I pay *a lot of attention to detail* to generate best products.
 
 <details>
   <summary><b>Languages I Know 💻</b></summary><br/>
 
-| Language   | Degree   |
-| ---        | ---      |
-| Javascript | SSS      |
-| Python     | SSS (AI) |
-| HTML       | A        |
-| Typescript | B+       |
-| CSS        | B        |
-| SCSS       | B        |
-| Lua        | B        |
-| Golang     | B        |
+| Language   | 
+| ---        | 
+| Javascript |
+| Python     | 
+| HTML       | 
+| Java       |
+| C          | 
 
 ##
-
-<details>
-  <summary><b>Languages ​​I'm Learning 🙇🏻</b></summary><br/>
-
-| Language   | Status   |
-| ---        | ---      |
-| Emacs Lisps| ✅       |
-| Java       | ✅       |
-| Make       | ✅       |
-| Assembly   | ✅       |
-| Rust       | ✅       |
-| LaTeX      | ✅       |
-| MediaWiki  | ✅       |
-</details>
 
 <details>
   <summary><b>Contributed Repositories 📚</b></summary><br/>
